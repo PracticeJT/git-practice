@@ -1,7 +1,7 @@
 Practice Instructions
 =====================
 
-First, get git setup and working (http://confluence.swissbank.com/display/neo/Installing+Git%2C+GitHub+and+p4merge).
+First, get git setup and working.
 
 Then open git bash.  Two big hints: typing `git` at the bash command prompt will give you the list of all git commands.  Typing `git help <command>` will open a web page with help on using a particular command.
 
